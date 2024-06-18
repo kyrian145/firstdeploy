@@ -3,7 +3,7 @@
 const Navbar = ()=>{
     return(
         <section className="flex justify-between text-black bg-white w-full h-16 items-center">
-            <img className=" " src="/images/logok.png" alt="hey"/>
+            <img src="/images/logok.png" alt="hey"/>
             
             <div className=" mr-8 ">
                 <ul className="flex flex-row justify-between w-64">

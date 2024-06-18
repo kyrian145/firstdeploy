@@ -10,7 +10,7 @@ export default function Home() {
         <h1 className="text-2xl font-bold">Welcome to Kyrian&Co</h1>
         <h4 className="my-8 text-sm font-bold text-gray-500" >The best Ecommerce website</h4>
         <button className="bg-black text-white px-1 py-1 mt-4 rounded">Explore</button>
-        <img  src="/images/Image - Drag in to fill..svg" className="w-[1080px] h-[695.2px] mt-16"/>
+        <img  src="/images/Image - Drag in to fill..svg" alt="image" className="w-[1080px] h-[695.2px] mt-16"/>
       </div>
       <section className="h-[400px] mt-32 bg-white">
           <div className=" flex flex-col justify-start ml-16 my-4 ">
