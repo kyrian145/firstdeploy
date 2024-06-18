@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <>
     <div className="w-full bg-white ">
+      
       <Navbar/>
       <div className="flex flex-col items-center justify-center bg-white h-[700px] w-full ">
         <h1 className="text-2xl font-bold">Welcome to Kyrian&Co</h1>
